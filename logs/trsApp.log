@@ -1,0 +1,65 @@
+2025-08-07 12:59:55 [INFO ] Version:21 - HV000001: Hibernate Validator 6.2.5.Final
+2025-08-07 12:59:55 [INFO ] TrainTicketReservationSystemSpringBootApplication:55 - Starting TrainTicketReservationSystemSpringBootApplication using Java 17.0.12 on LAPTOP-8U2BO613 with PID 1960 (E:\train-ticket-reservation-system-develop\target\classes started by SHAURYA KATNA in E:\train-ticket-reservation-system-develop)
+2025-08-07 12:59:55 [INFO ] TrainTicketReservationSystemSpringBootApplication:631 - No active profile set, falling back to 1 default profile: "default"
+2025-08-07 12:59:55 [INFO ] DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-08-07 12:59:55 [INFO ] DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-08-07 12:59:56 [INFO ] RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-08-07 12:59:56 [INFO ] RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 64 ms. Found 5 JPA repository interfaces.
+2025-08-07 12:59:57 [INFO ] TomcatWebServer:108 - Tomcat initialized with port(s): 9999 (http)
+2025-08-07 12:59:57 [INFO ] Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9999"]
+2025-08-07 12:59:57 [INFO ] StandardService:173 - Starting service [Tomcat]
+2025-08-07 12:59:57 [INFO ] StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.76]
+2025-08-07 12:59:58 [INFO ] TldScanner:173 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2025-08-07 12:59:58 [INFO ] [/TRSApp]:173 - Initializing Spring embedded WebApplicationContext
+2025-08-07 12:59:58 [INFO ] ServletWebServerApplicationContext:292 - Root WebApplicationContext: initialization completed in 2272 ms
+2025-08-07 12:59:58 [INFO ] LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-08-07 12:59:58 [INFO ] Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-08-07 12:59:58 [INFO ] Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-08-07 12:59:59 [INFO ] HikariDataSource:110 - HikariPool-1 - Starting...
+2025-08-07 12:59:59 [INFO ] HikariDataSource:123 - HikariPool-1 - Start completed.
+2025-08-07 12:59:59 [INFO ] Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2025-08-07 13:00:00 [INFO ] JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-08-07 13:00:00 [INFO ] LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-08-07 13:00:01 [WARN ] JpaBaseConfiguration$JpaWebConfiguration:223 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-07 13:00:02 [INFO ] OptionalLiveReloadServer:59 - LiveReload server is running on port 35729
+2025-08-07 13:00:02 [INFO ] Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9999"]
+2025-08-07 13:00:02 [INFO ] TomcatWebServer:220 - Tomcat started on port(s): 9999 (http) with context path '/TRSApp'
+2025-08-07 13:00:02 [INFO ] TrainTicketReservationSystemSpringBootApplication:61 - Started TrainTicketReservationSystemSpringBootApplication in 6.96 seconds (JVM running for 7.928)
+2025-08-07 13:00:23 [INFO ] LocalContainerEntityManagerFactoryBean:651 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-07 13:00:23 [INFO ] HikariDataSource:350 - HikariPool-1 - Shutdown initiated...
+2025-08-07 13:00:23 [INFO ] HikariDataSource:352 - HikariPool-1 - Shutdown completed.
+2025-08-07 13:01:59 [INFO ] Version:21 - HV000001: Hibernate Validator 6.2.5.Final
+2025-08-07 13:01:59 [INFO ] TrainTicketReservationSystemSpringBootApplication:55 - Starting TrainTicketReservationSystemSpringBootApplication using Java 17.0.12 on LAPTOP-8U2BO613 with PID 24752 (E:\train-ticket-reservation-system-develop\target\classes started by SHAURYA KATNA in E:\train-ticket-reservation-system-develop)
+2025-08-07 13:01:59 [INFO ] TrainTicketReservationSystemSpringBootApplication:631 - No active profile set, falling back to 1 default profile: "default"
+2025-08-07 13:01:59 [INFO ] DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-08-07 13:01:59 [INFO ] DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-08-07 13:02:00 [INFO ] RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-08-07 13:02:00 [INFO ] RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 58 ms. Found 5 JPA repository interfaces.
+2025-08-07 13:02:01 [INFO ] TomcatWebServer:108 - Tomcat initialized with port(s): 9999 (http)
+2025-08-07 13:02:01 [INFO ] Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9999"]
+2025-08-07 13:02:01 [INFO ] StandardService:173 - Starting service [Tomcat]
+2025-08-07 13:02:01 [INFO ] StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.76]
+2025-08-07 13:02:01 [INFO ] TldScanner:173 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2025-08-07 13:02:01 [INFO ] [/TRSApp]:173 - Initializing Spring embedded WebApplicationContext
+2025-08-07 13:02:01 [INFO ] ServletWebServerApplicationContext:292 - Root WebApplicationContext: initialization completed in 2045 ms
+2025-08-07 13:02:01 [INFO ] LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-08-07 13:02:01 [INFO ] Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-08-07 13:02:02 [INFO ] Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-08-07 13:02:02 [INFO ] HikariDataSource:110 - HikariPool-1 - Starting...
+2025-08-07 13:02:02 [INFO ] HikariDataSource:123 - HikariPool-1 - Start completed.
+2025-08-07 13:02:02 [INFO ] Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2025-08-07 13:02:03 [INFO ] JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-08-07 13:02:03 [INFO ] LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-08-07 13:02:04 [WARN ] JpaBaseConfiguration$JpaWebConfiguration:223 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-07 13:02:05 [INFO ] OptionalLiveReloadServer:59 - LiveReload server is running on port 35729
+2025-08-07 13:02:05 [INFO ] Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9999"]
+2025-08-07 13:02:05 [INFO ] TomcatWebServer:220 - Tomcat started on port(s): 9999 (http) with context path '/TRSApp'
+2025-08-07 13:02:05 [INFO ] TrainTicketReservationSystemSpringBootApplication:61 - Started TrainTicketReservationSystemSpringBootApplication in 6.437 seconds (JVM running for 7.232)
+2025-08-07 13:04:16 [INFO ] [/TRSApp]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-07 13:04:16 [INFO ] DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2025-08-07 13:04:16 [INFO ] DispatcherServlet:547 - Completed initialization in 1 ms
+2025-08-07 13:06:29 [WARN ] RegistrationController:80 - Validation errors occurred during registration for user: co22303@cccet.ac.in
+2025-08-07 13:07:20 [WARN ] RegistrationController:80 - Validation errors occurred during registration for user: co22303@cccet.ac.in
+2025-08-07 13:09:28 [INFO ] LocalContainerEntityManagerFactoryBean:651 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-07 13:09:28 [INFO ] HikariDataSource:350 - HikariPool-1 - Shutdown initiated...
+2025-08-07 13:09:28 [INFO ] HikariDataSource:352 - HikariPool-1 - Shutdown completed.
