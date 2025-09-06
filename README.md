@@ -86,3 +86,11 @@ Users of the system have the following access and functionalities:
   
 These technologies are carefully selected to provide a robust, efficient, and user-friendly solution for the Train Ticket Reservation System.
 
+## Screenshots
+
+<img width="1173" height="600" alt="Screenshot 2025-09-06 165317" src="https://github.com/user-attachments/assets/e9db6b8e-b593-4194-a4b9-f2ff5ee32168" />
+
+<img width="1179" height="587" alt="Screenshot 2025-09-06 165258" src="https://github.com/user-attachments/assets/8171c110-9d12-49b9-8289-63c4e1fd1b38" />
+
+
+
